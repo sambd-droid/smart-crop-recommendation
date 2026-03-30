@@ -3,8 +3,8 @@
 An intelligent system that recommends the most suitable crops based on soil nutrients and environmental conditions using Machine Learning.
 
 ---
-https://sites.google.com/view/modb/server-side
 
+https://biplobbiswash3.pythonanywhere.com/
 ## 📌 Overview
 
 The **Crop Recommendation System** helps farmers and agricultural planners choose the best crop to cultivate by analyzing key factors such as:
