@@ -1,5 +1,5 @@
- ##Crop Recommendation System
-
+ ## Crop Recommendation System
+---
 An intelligent system that recommends the most suitable crops based on soil nutrients and environmental conditions using Machine Learning.
 
 ---
