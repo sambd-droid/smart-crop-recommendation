@@ -1,4 +1,4 @@
- Crop Recommendation System
+ #Crop Recommendation System
 
 An intelligent system that recommends the most suitable crops based on soil nutrients and environmental conditions using Machine Learning.
 
@@ -41,7 +41,7 @@ This project aims to improve agricultural productivity and support data-driven f
 
 ## 📷 Screenshots
 
-🌐 Usage
+## 🌐 Usage
 Enter soil and environmental parameters:
 Nitrogen (N)
 Phosphorus (P)
@@ -52,20 +52,20 @@ pH
 Rainfall
 Click Predict
 System will recommend the most suitable crop 🌾
-📊 Machine Learning Model
+##📊 Machine Learning Model
 Algorithms used:
 Random Forest 🌲
 Decision Tree 🌳
 K-Nearest Neighbors (KNN)
 Model trained on agricultural datasets
 Accuracy: ~90%+ (depending on dataset)
-🧠 Future Improvements
+## 🧠 Future Improvements
 📱 Mobile app for farmers
 🌍 Integration with real-time weather APIs
 🛰️ Satellite data integration
 🗣️ Voice-based input (Bangla support)
 📡 IoT sensor integration for live soil data
-🎯 Use Cases
+## 🎯 Use Cases
 Farmers for crop selection
 Agricultural researchers
 Government agricultural planning
